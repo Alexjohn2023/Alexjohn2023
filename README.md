@@ -55,9 +55,13 @@ Automated Git workflows using SSH authentication and Linux.
 
 ---
 
-##  GitHub Stats
+## GitHub Stats
 
 ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexjohn2023&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Alexjohn2023&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexjohn2023&layout=compact&theme=tokyonight)
 
 ---
 
