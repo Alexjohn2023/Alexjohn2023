@@ -15,16 +15,13 @@ Currently developing production-ready DevOps and cloud infrastructure projects u
 
 ---
 
-##  Connect With Me
+## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alexander-njoku-62040a194/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Alexjohn2023)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-blueviolet?style=for-the-badge)](https://your-portfolio-link.com)
-
----
-
+[![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium)](https://medium.com/@alex2020global)
 ## 🛠️ Tech Stack
 
 ### Cloud & DevOps
